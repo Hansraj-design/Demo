@@ -1,4 +1,4 @@
 # Demo
 This is my frist Git repostiory
 <br>
-Author - hansraj ghodela
+Author - Hansraj Ghodela (KH.in)
